@@ -1,5 +1,5 @@
-#git project
+# git project
 
-##This is alx-precourse project
+## This is alx-precourse project
 
-##working with my squad
+## working with my squad
